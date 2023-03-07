@@ -1,0 +1,9 @@
+db:
+  host: localhost
+  port: 33060
+  username: root
+  password: aa11
+  database: user_management
+app:
+  port: 8080
+  env: development
